@@ -7,7 +7,7 @@ class Coba extends BaseController
     public function index()
     {
         //return view('welcome_message');
-        echo "selamat datang Nyoba";
+        echo "selamat datang coba";
     }
     public function test($nama)
     {
